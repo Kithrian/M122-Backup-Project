@@ -1,0 +1,200 @@
+01.01.2020-15:55:55: running script backup version 0.6
+01.01.2020-15:55:55: Starting backup of C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\OrdnerStruc to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55
+01.01.2020-15:55:55: 12 Directories in C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\OrdnerStruc
+01.01.2020-15:55:55: 180 Files in C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\OrdnerStruc
+01.01.2020-15:55:55: Created directory User Drei
+01.01.2020-15:55:55: Created directory Ordner Drei
+01.01.2020-15:55:55: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:55: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Drei
+01.01.2020-15:55:56: Created directory Ordner Eins
+01.01.2020-15:55:56: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:56: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Eins
+01.01.2020-15:55:57: Created directory Ordner Zwei
+01.01.2020-15:55:57: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Drei\Ordner Zwei
+01.01.2020-15:55:57: Created directory User Eins
+01.01.2020-15:55:57: Created directory Ordner Drei
+01.01.2020-15:55:58: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Drei
+01.01.2020-15:55:58: Created directory Ordner Eins
+01.01.2020-15:55:58: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Eins
+01.01.2020-15:55:59: Created directory Ordner Zwei
+01.01.2020-15:55:59: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:55:59: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Eins\Ordner Zwei
+01.01.2020-15:56:00: Created directory User Zwei
+01.01.2020-15:56:00: Created directory Ordner Drei
+01.01.2020-15:56:00: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:00: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:01: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:02: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Drei
+01.01.2020-15:56:02: Created directory Ordner Eins
+01.01.2020-15:56:02: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Eins
+01.01.2020-15:56:02: Created directory Ordner Zwei
+01.01.2020-15:56:02: Copied 0.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:02: Copied 1.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:02: Copied 10.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:02: Copied 11.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:02: Copied 12.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:02: Copied 13.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 14.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 15.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 16.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 17.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 18.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 19.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 2.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 3.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 4.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 5.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 6.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 7.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 8.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: Copied 9.txt to C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup\OrdnerStruc-01_01_2020_15_55_55\User Zwei\Ordner Zwei
+01.01.2020-15:56:03: copy of files finished
+01.01.2020-15:56:03: created 12/12 directories
+01.01.2020-15:56:03: copied 180/180 files
+01.01.2020-15:56:03: Backup SUCCESSFUL, all files have been copied
