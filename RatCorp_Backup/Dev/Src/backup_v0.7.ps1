@@ -1,11 +1,16 @@
-﻿$logMode = 1;
+﻿
+param(
+$src,
+$dest,
+$logMode
+)
 
-# log start of script
-$msg = "Running script backup version 0.7"
-log $msg
 
-$backupSrc = testDirectory "C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\OrdnerStruc";
-$backupDest = testDirectory "C:\Users\vmadmin\Documents\RatCorp_Backup\Dev\Dat\Backup";
+$backupSrc = testDirectory $src;
+$backupDest = testDirectory $dest;
+
+# logMode 0 = only console, 1 = console and logfile
+$logMode = $logMode;
 
 $fileCount;
 $directoryCount;
@@ -125,7 +130,6 @@ function copyFiles($src, $dest){
 
 #log 
 Function log ($Message) {    
-    Write-Host "LOGMODE $logMode"
     $Datum=Get-Date -format dd.MM.yyyy-HH:mm:ss
     if (!(Test-Path -Path $logFile)-and $logMode -eq 1) {        
     New-Item -Path $logFile -ItemType File | Out-Null    }    

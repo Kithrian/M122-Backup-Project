@@ -1,0 +1,15 @@
+v0.1
+Backup Skript aus dem Internet wurde angepasst, unnötige Funktionen entfernt. Ein Folder Picker hinzugefügt zum auswählen der Backup Source und Backup Destination.
+v0.2
+Funktion zum ausschliessen von Verzeichnis wurde entfernt. Der Folder Picker hat als initial Directory das Skript Directory.
+v0.3
+Die Ergebnisse im Logfile sind fehlerhaft. Dateien werden falsch gezählt. Entscheid Skript von grund auf selbst zu schreiben, vorerst ohne Log funktion.
+Die CopyFunction wird so gestaltet dass sie einfach erweitert werden kann.
+v0.4
+Das zählen der Dateien im Ursprungs- und Ziel-Verzeichnis wurde hinzugefügt.
+v0.5
+Log Datei welche je nach Modus nur in die Console schreibt oder in Datei wurde hinzugefügt.
+v0.6
+Log wurde um eine Startzeile mit Versionshinweis erweitert.
+v0.7
+Skript wurde um Parameter für Skriptaufruf ergänzt: src, dest und logMode
