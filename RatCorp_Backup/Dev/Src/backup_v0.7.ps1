@@ -5,6 +5,21 @@ $dest,
 $logMode
 )
 
+$date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
+$srcName = Get-Item $src | Get-ItemPropertyValue -Name Name;
+$backupName = "$srcName-$date"
+
+
+# get path where script is run for creation of log file
+$path = Split-Path $script:MyInvocation.MyCommand.Path
+
+# set logFile path and name
+
+$logFile = "$path\"+"$backupName"+".txt"
+
+# log start of script
+$msg = "Running script backup version 0.7"
+log $msg
 
 $backupSrc = testDirectory $src;
 $backupDest = testDirectory $dest;
@@ -22,23 +37,11 @@ $directoryCountSrc;
 $directoryCountDest=0;
 $fileCountDest=0;
 
-
-$date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
-$srcName = Get-Item $backupSrc | Get-ItemPropertyValue -Name Name;
-$backupName = "$srcName-$date"
-
 # create backup folder in the backup directory, named with actual date and the name of the source folder
 $backup = New-Item -Path $backupDest -ItemType "directory" -Name "$backupName"
 
 # copy the files from Source to the backup folder
 makeBackup $backupSrc $backup
-
-# get path where script is run for creation of log file
-$path = Split-Path $script:MyInvocation.MyCommand.Path
-
-# set logFile path and name
-
-$logFile = "$path\"+"$backupName"+".txt"
 
 # Tests if directory exists, if true it returns the path. If false the script will end with an error message.
 function testDirectory($dir){
