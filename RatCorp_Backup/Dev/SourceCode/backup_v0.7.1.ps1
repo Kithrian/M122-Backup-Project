@@ -116,7 +116,7 @@ $backupName = "$srcName-$date"
 [string]$logFile = "$path\"+"$backupName"+".txt"
 
 # log start of script
-log "Running script backup version 0.7"
+log "Running script backup version 0.7.1"
 
 $backupSrc = testDirectory $src;
 
@@ -137,3 +137,4 @@ $backupSrc = testDirectory $src;
 # copy the files from Source to the backup folder
 makeBackup $backupSrc $backup
 
+Write-Output $backupName

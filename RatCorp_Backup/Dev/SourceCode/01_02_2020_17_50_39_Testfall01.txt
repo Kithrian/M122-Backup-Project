@@ -1,0 +1,4 @@
+02.01.2020-17:50:39: Running Testfall01
+02.01.2020-17:50:40: test.txt test1.txt
+02.01.2020-17:50:40: test.txt test1.txt
+02.01.2020-17:50:40: Backup Successful
