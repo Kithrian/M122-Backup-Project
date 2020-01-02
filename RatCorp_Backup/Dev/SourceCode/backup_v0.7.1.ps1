@@ -17,8 +17,12 @@ function testDirectory ($Path) {
 }
 
 # Copys all files from the Source folder into the destination folder
-function makeBackup($SourceFolder, $DestinationFolder) {
-
+function MakeBackup {
+  param (
+    [Parameter(Mandatory=$true)] [string]$SourceFolder,
+    [Parameter(Mandatory=$true)] [string]$DestinationFolder
+  )
+  
   log "Starting backup of $SourceFolder to $DestinationFolder"
 
   $directories = Get-ChildItem -Path $SourceFolder -Force -Recurse -Directory
