@@ -57,7 +57,7 @@ function copyFiles($src, $dest){
     if($files){
     foreach($file in $files){
     try {
-        Copy-Item $src\$file -Destination $dest
+        Copy-Item $src\$file -Destination $dest -ErrorAction Stop
         $script:fileCountDest++
         log "Copied $file to $dest"
     }
@@ -75,7 +75,7 @@ function copyFiles($src, $dest){
 
     foreach($folder in $folders){
     try {
-        Copy-Item $src\$folder -Destination $dest
+        Copy-Item $src\$folder -Destination $dest -ErrorAction Stop
         $script:directoryCountDest++
         log "Created directory $folder" 
         copyFiles $src\$folder $dest\$folder

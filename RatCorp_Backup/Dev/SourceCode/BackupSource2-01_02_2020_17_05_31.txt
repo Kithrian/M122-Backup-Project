@@ -1,0 +1,7 @@
+02.01.2020-17:05:31: Running script backup version 0.7
+02.01.2020-17:05:31: Starting backup of C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource2 to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource2-01_02_2020_17_05_31
+02.01.2020-17:05:31: 12 Directories in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource2
+02.01.2020-17:05:31: 179 Files in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource2
+02.01.2020-17:05:38: Copied test.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource2-01_02_2020_17_05_31
+02.01.2020-17:05:38: Created directory User Drei
+02.01.2020-17:05:38: Created directory Ordner Drei
