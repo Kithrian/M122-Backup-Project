@@ -1,110 +1,109 @@
 ﻿param(
-    $src,
-    $dest,
-    # logMode 0 = only console, 1 = console and logfile
-    [int]$logMode
-  )
+  [Parameter(Mandatory = $false)] [string]$SourceFolder = "..\BackupDataFiles\BackupSource",
+  [Parameter(Mandatory = $false)] [string]$DestinationFolder = "..\BackupDataFiles\BackupTarget",
+  # logMode 0 = only console, 1 = console and logfile
+  [Parameter(Mandatory = $false)] [bool]$logMode = 1
+)
 
-  # Tests if directory exists, if true it returns the path. If false the script will end with an error message.
-  function testDirectory ($dir) {
-    if (-not (Test-Path $dir)) {
-      log "Error: Directory $dir doesn't exist";
-      exit;
-    }
-    else {
-      return $dir;
-    }
+# Tests if directory exists, if true it returns the path. If false the script will end with an error message.
+function testDirectory ($Path) {
+  if (-not (Test-Path $Path)) {
+    log "Error: Directory $Path doesn't exist";
+    exit;
   }
+  else {
+    return $Path;
+  }
+}
 
 # Copys all files from the Source folder into the destination folder
-function makeBackup($src, $dest){
+function makeBackup($SourceFolder, $DestinationFolder) {
 
-    log "Starting backup of $src to $dest"
+  log "Starting backup of $SourceFolder to $DestinationFolder"
 
-    $directories = Get-ChildItem -Path $src -Force -Recurse -Directory
-    $files = Get-ChildItem -Path $src -Force -Recurse -File
+  $directories = Get-ChildItem -Path $SourceFolder -Force -Recurse -Directory
+  $files = Get-ChildItem -Path $SourceFolder -Force -Recurse -File
   
-    $directoryCountSrc = $directories.Count
+  $directoryCountSrc = $directories.Count
     
-    log "$directoryCountSrc Directories in $src"
+  log "$directoryCountSrc Directories in $SourceFolder"
   
-    $fileCountSrc = $files.Count
+  $fileCountSrc = $files.Count
   
-    log "$fileCountSrc Files in $src";
+  log "$fileCountSrc Files in $SourceFolder";
   
-    copyFiles $src $dest;
+  copyFiles $SourceFolder $DestinationFolder;
   
-    log "copy of files finished"
+  log "copy of files finished"
   
-    log "created $directoryCountDest/$directoryCountSrc directories"
+  log "created $directoryCountDest/$directoryCountSrc directories"
   
-    log "copied $fileCountDest/$fileCountSrc files"
+  log "copied $fileCountDest/$fileCountSrc files"
   
-    if ($directoryCountDest -eq $directoryCountSrc -and $fileCountDest -eq $fileCountSrc) {
-      log "Backup SUCCESSFUL, all files have been copied"
-    }
-    else {
-      log "Backup FAILED, some files may have not been copied"
-    }
+  if ($directoryCountDest -eq $directoryCountSrc -and $fileCountDest -eq $fileCountSrc) {
+    log "Backup SUCCESSFUL, all files have been copied"
   }
+  else {
+    log "Backup FAILED, some files may have not been copied"
+  }
+}
 
 # Copys files from one directory to another. If the directory has a subdirectory it creates it and calls this function for the subdirectory.
 
-function copyFiles($src, $dest){
-    Write-Host "Start to copy files in $src";
-    $files = Get-ChildItem -Path $src -Force -File
+function copyFiles($SourceFolder, $DestinationFolder) {
+  Write-Host "Start to copy files in $SourceFolder";
+  $files = Get-ChildItem -Path $SourceFolder -Force -File
 
-    if($files){
-    foreach($file in $files){
-    try {
-        Copy-Item $src\$file -Destination $dest -ErrorAction Stop
+  if ($files) {
+    foreach ($file in $files) {
+      try {
+        Copy-Item $SourceFolder\$file -Destination $DestinationFolder -ErrorAction Stop
         $script:fileCountDest++
-        log "Copied $file to $dest"
+        log "Copied $file to $DestinationFolder"
+      }
+      catch {
+        log "Failed to copy $file to $DestinationFolder"
+      }
     }
-    catch {
-        log "Failed to copy $file to $dest"
-    }
-
-
-    }
-     }
+  }
     
-    $folders = Get-ChildItem -Path $src -Force -Directory
+  $folders = Get-ChildItem -Path $SourceFolder -Force -Directory
 
-    if($folders){
+  if ($folders) {
 
-    foreach($folder in $folders){
-    try {
-        Copy-Item $src\$folder -Destination $dest -ErrorAction Stop
+    foreach ($folder in $folders) {
+      try {
+        Copy-Item $SourceFolder\$folder -Destination $DestinationFolder -ErrorAction Stop
         $script:directoryCountDest++
         log "Created directory $folder" 
-        copyFiles $src\$folder $dest\$folder
-    }
-    catch {
+        copyFiles $SourceFolder\$folder $DestinationFolder\$folder
+      }
+      catch {
         log "Failed to create directory $folder" 
-    }    
-   }
+      }    
+    }
   }    
 }
 
 #log 
 function log {
-    param (
-        [Parameter(Mandatory=$true)] $message
-    )
-    $date=Get-Date -format dd.MM.yyyy-HH:mm:ss
-    if (-not (Test-Path -Path $logFile) -and $logMode -eq 1) {
-        New-Item -Path $logFile -ItemType File | Out-Null }
-        $text="$date"+":"+" $message"
-      Write-Host $text
-      if ($logMode -eq 1) {
-        Add-Content -Path $logFile -Value $text
-      }
-    }
+  param (
+    [Parameter(Mandatory = $true)] $message
+  )
+  $date = Get-Date -format dd.MM.yyyy-HH:mm:ss
+  if (-not (Test-Path -Path $logFile) -and $logMode -eq 1) {
+    New-Item -Path $logFile -ItemType File | Out-Null 
+  }
+  $text = "$date" + ":" + " $message"
+  Write-Host $text
+  if ($logMode -eq 1) {
+    Add-Content -Path $logFile -Value $text
+  }
+}
  
 
 $date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
-$srcName = Get-Item $src | Get-ItemPropertyValue -Name Name;
+$srcName = Get-Item $SourceFolder | Get-ItemPropertyValue -Name Name;
 $backupName = "$srcName-$date"
 
 
@@ -113,12 +112,12 @@ $backupName = "$srcName-$date"
 
 # set logFile path and name
 
-[string]$logFile = "$path\"+"$backupName"+".txt"
+[string]$logFile = "$path\" + "$backupName" + ".txt"
 
 # log start of script
 log "Running script backup version 0.7"
 
-$backupSrc = testDirectory $src;
+$backupSrc = testDirectory $SourceFolder;
 
 
 
@@ -132,7 +131,7 @@ $backupSrc = testDirectory $src;
 [int]$fileCountDest = 0;
 
 # create backup folder in the backup directory, named with actual date and the name of the source folder
-[string]$backup = testDirectory(New-Item -Path $dest -ItemType "directory" -Name "$backupName")
+[string]$backup = testDirectory(New-Item -Path $DestinationFolder -ItemType "directory" -Name "$backupName")
 
 # copy the files from Source to the backup folder
 makeBackup $backupSrc $backup

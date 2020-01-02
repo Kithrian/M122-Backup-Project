@@ -33,11 +33,10 @@ function MakeBackup {
       #Create folder Structure if not exists
       New-Item -Path $ItemRelativPath -ItemType "directory"
     }
-    
+
     Copy-Item -Path $FullItemPath -Destination $ItemRelativPath
     Set-Location $SourceFolder
   }
-
 }
 
 MakeBackup $SourceFolder $DestinationFolder
