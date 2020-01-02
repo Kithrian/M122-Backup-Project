@@ -130,7 +130,6 @@ function copyFiles($src, $dest){
 
 #log 
 Function log ($Message) {    
-    Write-Host "LOGMODE $logMode"
     $Datum=Get-Date -format dd.MM.yyyy-HH:mm:ss
     if (!(Test-Path -Path $logFile)-and $logMode -eq 1) {        
     New-Item -Path $logFile -ItemType File | Out-Null    }    
