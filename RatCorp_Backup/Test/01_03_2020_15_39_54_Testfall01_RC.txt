@@ -1,0 +1,7 @@
+03.01.2020-15:39:54: Running Testfall01
+03.01.2020-15:39:54: Quellverzeichnis: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\RatCorp
+03.01.2020-15:39:54: Zielverzeichnis: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup
+03.01.2020-15:40:00: Backupname: RatCorp-01_03_2020_15_39_54
+03.01.2020-15:40:00: Anzahl kopierter Dateien: 60
+03.01.2020-15:40:00: Backedupfiles-List: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\01_03_2020_15_39_54_Backdupfiles_RC.txt
+03.01.2020-15:40:00: Backup Successful

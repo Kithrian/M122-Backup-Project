@@ -1,0 +1,77 @@
+03.01.2020-15:39:54: Running script backup version 1.1
+03.01.2020-15:39:54: Starting backup of C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\RatCorp to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54
+03.01.2020-15:39:54: 9 Directories in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\RatCorp
+03.01.2020-15:39:54: 60 Files in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\RatCorp
+03.01.2020-15:39:54: Created directory Hans
+03.01.2020-15:39:54: Created directory account
+03.01.2020-15:39:54: Copied 2010_22712.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:54: Copied 2010_50206.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2011_67328.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2011_89982.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2012_16207.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2012_20347.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2012_35219.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2016_27363.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2017_2652.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Copied 2017_66748.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\account
+03.01.2020-15:39:55: Created directory hr
+03.01.2020-15:39:55: Copied 2017_1729.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:55: Copied 2017_25277.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:55: Copied 2017_3284.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Copied 2017_35033.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Copied 2017_42726.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Copied 2017_43596.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Copied 2017_44513.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Copied 2017_51708.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Copied 2017_82992.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Copied 2017_91300.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Hans\hr
+03.01.2020-15:39:56: Created directory Rosi
+03.01.2020-15:39:56: Created directory account
+03.01.2020-15:39:56: Copied 2010_45736.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:56: Copied 2010_53844.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:56: Copied 2010_6366.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:56: Copied 2012_26135.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:56: Copied 2013_70929.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:57: Copied 2013_76121.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:57: Copied 2014_21592.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:57: Copied 2015_44676.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:57: Copied 2016_69707.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:57: Copied 2017_76534.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\account
+03.01.2020-15:39:57: Created directory hr
+03.01.2020-15:39:57: Copied 2012_13599.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:57: Copied 2012_20728.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:57: Copied 2012_33474.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Copied 2012_42933.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Copied 2012_49034.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Copied 2012_53340.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Copied 2012_73536.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Copied 2012_79799.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Copied 2012_92780.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Copied 2012_99139.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Rosi\hr
+03.01.2020-15:39:58: Created directory Ruedi
+03.01.2020-15:39:58: Created directory account
+03.01.2020-15:39:58: Copied 2011_46729.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:58: Copied 2011_98877.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:58: Copied 2012_58298.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Copied 2012_68899.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Copied 2013_78996.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Copied 2014_41994.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Copied 2014_4289.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Copied 2014_50969.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Copied 2014_68917.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Copied 2015_59842.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\account
+03.01.2020-15:39:59: Created directory hr
+03.01.2020-15:39:59: Copied 2013_22409.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:39:59: Copied 2013_32758.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:39:59: Copied 2013_42681.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:39:59: Copied 2013_44874.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:40:00: Copied 2013_58140.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:40:00: Copied 2013_76719.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:40:00: Copied 2013_80800.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:40:00: Copied 2013_84472.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:40:00: Copied 2013_88440.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:40:00: Copied 2013_88878.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\RatCorp-01_03_2020_15_39_54\Ruedi\hr
+03.01.2020-15:40:00: copy of files finished
+03.01.2020-15:40:00: created 9/9 directories
+03.01.2020-15:40:00: copied 60/60 files
+03.01.2020-15:40:00: Backup SUCCESSFUL, all files have been copied
