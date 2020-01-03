@@ -23,19 +23,27 @@ $date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
 # log start of script
 log "Running Testfall01"
 
-[string]$src = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource" 
+[string]$src = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3" 
 [string]$dest = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget"
 
-$result = C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\SourceCode\backup_v1.0.ps1 $src $dest 1
+[bool]$logToFile = 1
+log "Quellverzeichnis: $src"
+log "Zielverzeichnis: $dest"
 
-$backupName = $result | select -Last 1
+$result = C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\SourceCode\backup_v1.1.ps1 $src $dest $logToFile
+$backupName = $result | select -index 0
+$countCopiedFiles = $result | select -index 1
+$copiedFilesNames = $result | select -index 2
 
-Write-Host "Backupname $backupName"
+[string]$backdupFilesList = "$path\"+"$date"+"_Backdupfiles"+".txt"
+$copiedFilesNames | Out-File -FilePath $backdupFilesList
+
+log "Backupname: $backupName"
+log "Anzahl kopierter Dateien: $countCopiedFiles"
+log "Backedupfiles-List: $backdupFilesList"
+
 $filesSrc = Get-ChildItem -Path $src -Force -Recurse -File
-
-$filesDest = Get-ChildItem -Path $dest\$backupName -Force -Recurse -File
-log $filesDest
-log $filesSrc
+$filesDest = Get-ChildItem -Path $dest\$backupName -Force -Recurse -File 
 $different = Compare-Object -ReferenceObject $filesSrc -DifferenceObject $filesDest
 if($different){
     log "Backup Failed"

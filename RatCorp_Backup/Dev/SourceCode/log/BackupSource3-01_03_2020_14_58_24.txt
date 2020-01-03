@@ -1,0 +1,16 @@
+03.01.2020-14:58:24: Running script backup version 1.1
+03.01.2020-14:58:24: Starting backup of C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3 to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource3-01_03_2020_14_58_24
+03.01.2020-14:58:24: 3 Directories in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3
+03.01.2020-14:58:24: 5 Files in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3
+03.01.2020-14:58:25: Copied test.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource3-01_03_2020_14_58_24
+03.01.2020-14:58:25: Copied test1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource3-01_03_2020_14_58_24
+03.01.2020-14:58:25: Created directory test
+03.01.2020-14:58:25: Copied test3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource3-01_03_2020_14_58_24\test
+03.01.2020-14:58:25: Created directory OrdnerZwei
+03.01.2020-14:58:25: Copied test55.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource3-01_03_2020_14_58_24\test\OrdnerZwei
+03.01.2020-14:58:25: Created directory test
+03.01.2020-14:58:25: Copied hallo.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource3-01_03_2020_14_58_24\test\OrdnerZwei\test
+03.01.2020-14:58:25: copy of files finished
+03.01.2020-14:58:25: created 3/3 directories
+03.01.2020-14:58:25: copied 5/5 files
+03.01.2020-14:58:25: Backup SUCCESSFUL, all files have been copied

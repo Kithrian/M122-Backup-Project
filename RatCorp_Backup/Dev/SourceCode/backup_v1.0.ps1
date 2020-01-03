@@ -15,10 +15,6 @@ function MakeBackup {
     [Parameter(Mandatory=$true)] [string]$SourceFolder,
     [Parameter(Mandatory=$true)] [string]$DestinationFolder
   )
-
-    # Create backup directory
-    $DestinationFolder = New-Item -Path $DestinationFolder -Name $BackupName -ItemType "Directory"
-
     # Log start of backup
     log "Start backup of $SourceFolder to $DestinationFolder"
 
@@ -95,6 +91,9 @@ $Date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
 $SrcName = Get-Item $SourceFolder | Get-ItemPropertyValue -Name Name;
 $BackupName = "$SrcName-$Date"
 
+# Create backup directory
+$DestinationFolder = New-Item -Path $DestinationFolder -Name $BackupName -ItemType "Directory"
+
 # Get path where script is run for creation of log file
 [string]$Path = Split-Path $script:MyInvocation.MyCommand.Path
 
@@ -114,4 +113,4 @@ log "Running script backup version 1.0"
 MakeBackup $SourceFolder $DestinationFolder
 
 # Script returns the backupname
-Write-Output $BackupName
+Write-Output $BackupName, $FileCountDest

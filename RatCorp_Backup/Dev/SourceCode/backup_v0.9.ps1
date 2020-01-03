@@ -1,7 +1,7 @@
 ﻿
 param(
-  [Parameter(Mandatory=$false)] [string]$SourceFolder = "C:\Users\reyco\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource",
-  [Parameter(Mandatory=$false)] [string]$DestinationFolder = "C:\Users\reyco\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget",
+  [Parameter(Mandatory=$false)] [string]$SourceFolder = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource",
+  [Parameter(Mandatory=$false)] [string]$DestinationFolder = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget",
   [Parameter(Mandatory=$false)] [string]$LogFolder = "./"
 )
 

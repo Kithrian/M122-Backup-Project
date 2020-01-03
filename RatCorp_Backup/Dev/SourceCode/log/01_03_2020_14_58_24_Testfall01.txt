@@ -1,0 +1,7 @@
+03.01.2020-14:58:24: Running Testfall01
+03.01.2020-14:58:24: Quellverzeichnis: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3
+03.01.2020-14:58:24: Zielverzeichnis: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget
+03.01.2020-14:58:25: copiedFilesNames: test.txt test1.txt test3.txt test55.txt hallo.txt
+03.01.2020-14:58:25: Backupname: BackupSource3-01_03_2020_14_58_24
+03.01.2020-14:58:25: Anzahl kopierter Dateien: 5
+03.01.2020-14:58:25: Backup Successful
