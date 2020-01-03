@@ -7,6 +7,10 @@ param(
 
 Set-Location $SourceFolder
 
+[string]$CurrentDate = (Get-Date -Format "yyyy''MM''dd'T'HH''mm''ss").ToString()
+New-Item -Path $DestinationFolder -Name $CurrentDate -ItemType "Directory"
+$DestinationFolder += "\" + $CurrentDate
+
 #$SourceFolderr = $SourceFolder
 #$DestinationFolderr = $DestinationFolder
 
@@ -39,4 +43,37 @@ function MakeBackup {
   }
 }
 
-MakeBackup $SourceFolder $DestinationFolder
+#MakeBackup $SourceFolder $DestinationFolder
+
+
+
+#Improved Backup Function
+function Iterate {
+  param (
+    $Folder,
+    $DestinationFolder
+  )
+
+  Get-ChildItem $Folder | ForEach-Object {
+    Write-Host $_.FullName
+  
+    if ($_.GetType().FullName -eq [System.IO.DirectoryInfo]) {
+      
+      Set-Location $SourceFolder
+      [string]$ItemRelativPath = Resolve-Path -Relative $_.FullName
+      Set-Location $DestinationFolder
+      New-Item -Path $ItemRelativPath -ItemType "directory"
+      Iterate $_.FullName $DestinationFolder
+    } else {
+      Set-Location $SourceFolder
+      [string]$ItemRelativPath2 = Resolve-Path -Relative $_.FullName
+      Set-Location $DestinationFolder
+      Copy-Item $_.FullName $ItemRelativPath2
+      Write-Host $_.FullName
+    }
+  }
+}
+
+
+
+Iterate $SourceFolder $DestinationFolder
