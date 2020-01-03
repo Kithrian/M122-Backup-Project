@@ -1,0 +1,7 @@
+03.01.2020-13:25:45: Running script backup version 1.0
+03.01.2020-13:25:46: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test.txt
+03.01.2020-13:25:46: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test1.txt
+03.01.2020-13:25:46: Created folder .\test in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget\BackupSource3-01_03_2020_13_25_45
+03.01.2020-13:25:46: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test\test3.txt
+03.01.2020-13:25:46: Created 1/2 directories and copied 3/3 files
+03.01.2020-13:25:46: Backup FAILED, some files may have not been copied

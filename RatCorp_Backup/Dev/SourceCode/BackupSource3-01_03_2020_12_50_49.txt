@@ -1,0 +1,2 @@
+03.01.2020-12:50:49: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test.txt
+03.01.2020-12:50:49: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test1.txt

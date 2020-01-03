@@ -1,0 +1,6 @@
+03.01.2020-13:04:17: Running script backup version 1.0
+03.01.2020-13:04:17: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test.txt
+03.01.2020-13:04:17: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test1.txt
+03.01.2020-13:04:18: Created folder .\test
+03.01.2020-13:04:18: Copied C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3\test\test3.txt
+03.01.2020-13:04:18: copied  1/1 3/3

@@ -1,4 +1,4 @@
-﻿#log 
+﻿# log 
 function log {
     param (
         [Parameter(Mandatory=$true)] $message
@@ -23,10 +23,10 @@ $date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
 # log start of script
 log "Running Testfall01"
 
-[string]$src = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource3" 
+[string]$src = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupSource" 
 [string]$dest = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\BackupDataFiles\BackupTarget"
 
-$result = C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\SourceCode\backup_v0.7.1.ps1 $src $dest 1
+$result = C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Dev\SourceCode\backup_v1.0.ps1 $src $dest 1
 
 $backupName = $result | select -Last 1
 
