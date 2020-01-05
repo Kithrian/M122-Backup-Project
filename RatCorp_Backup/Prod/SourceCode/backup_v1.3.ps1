@@ -6,7 +6,9 @@
 ##                                                 - die Dateinamen der erfolgreich kopierten Dateien
 ## Datum: 06.01.2020
 ## Autor: Gruppe RegenbogenRatten
+## Version: 1.3
 
+#Paramter die dem Skript übergeben werden
 param(
   #Gibt den Quellordner an
   [Parameter(Mandatory = $false)] [string]$SourceFolder = "C:\OrdnerStruc",
