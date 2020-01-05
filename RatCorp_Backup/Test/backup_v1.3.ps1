@@ -4,7 +4,7 @@
 ## Das Skript gibt am Ende folgende Werte zurück:  - den Namen des erstellten Backups im Zielverzeichnis
 ##                                                 - die Anzahl der erfolgreich kopierten Dateien
 ##                                                 - die Dateinamen der erfolgreich kopierten Dateien
-## Datum: 06.01.2020
+## Datum: 05.01.2020
 ## Autor: Gruppe RegenbogenRatten
 
 param(
