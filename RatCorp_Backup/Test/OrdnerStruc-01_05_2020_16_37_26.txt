@@ -1,0 +1,200 @@
+05.01.2020-16:37:26: Running script backup version 1.3
+05.01.2020-16:37:26: Starting backup of C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\OrdnerStruc to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26
+05.01.2020-16:37:26: 12 Directories in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\OrdnerStruc
+05.01.2020-16:37:26: 180 Files in C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\OrdnerStruc
+05.01.2020-16:37:27: Created directory User Drei
+05.01.2020-16:37:27: Created directory Ordner Drei
+05.01.2020-16:37:27: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:27: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:27: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:27: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:27: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:27: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:28: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:29: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:29: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Drei
+05.01.2020-16:37:29: Created directory Ordner Eins
+05.01.2020-16:37:29: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:29: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Eins
+05.01.2020-16:37:30: Created directory Ordner Zwei
+05.01.2020-16:37:30: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:30: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:31: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:32: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:32: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:32: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:32: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Drei\Ordner Zwei
+05.01.2020-16:37:32: Created directory User Eins
+05.01.2020-16:37:32: Created directory Ordner Drei
+05.01.2020-16:37:32: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:32: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:32: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:32: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:32: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:32: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:32: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:32: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Drei
+05.01.2020-16:37:33: Created directory Ordner Eins
+05.01.2020-16:37:34: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:34: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Eins
+05.01.2020-16:37:35: Created directory Ordner Zwei
+05.01.2020-16:37:35: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:35: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:35: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:35: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:35: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:35: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:36: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:37: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Eins\Ordner Zwei
+05.01.2020-16:37:37: Created directory User Zwei
+05.01.2020-16:37:37: Created directory Ordner Drei
+05.01.2020-16:37:37: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:37: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Drei
+05.01.2020-16:37:38: Created directory Ordner Eins
+05.01.2020-16:37:38: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:38: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:38: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:39: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:40: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:40: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:40: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Eins
+05.01.2020-16:37:40: Created directory Ordner Zwei
+05.01.2020-16:37:40: Copied 0.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:40: Copied 1.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:40: Copied 10.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:40: Copied 11.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:40: Copied 12.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:40: Copied 13.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:40: Copied 14.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:40: Copied 15.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 16.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 17.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 18.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 19.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 2.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 3.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 4.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 5.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 6.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 7.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 8.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: Copied 9.txt to C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup\OrdnerStruc-01_05_2020_16_37_26\User Zwei\Ordner Zwei
+05.01.2020-16:37:41: copy of files finished
+05.01.2020-16:37:41: created 12/12 directories
+05.01.2020-16:37:41: copied 180/180 files
+05.01.2020-16:37:41: Backup SUCCESSFUL, all files have been copied

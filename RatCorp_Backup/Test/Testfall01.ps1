@@ -30,7 +30,7 @@ log "Running Testfall01"
 log "Quellverzeichnis: $src"
 log "Zielverzeichnis: $dest"
 
-$result = C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\backup_v1.1.ps1 $src $dest $logToFile
+$result = C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\backup_v1.3.ps1 $src $dest $logToFile
 $backupName = $result | select -index 0
 $countCopiedFiles = $result | select -index 1
 $copiedFilesNames = $result | select -index 2
@@ -45,7 +45,7 @@ log "Backedupfiles-List: $backdupFilesList"
 $filesSrc = Get-ChildItem -Path $src -Force -Recurse -File
 $filesDest = Get-ChildItem -Path $dest\$backupName -Force -Recurse -File 
 $different = Compare-Object -ReferenceObject $filesSrc -DifferenceObject $filesDest
-if($different){
+if($different -or !$countCopiedFiles){
     log "Backup Failed"
 }else {
     log "Backup Successful"

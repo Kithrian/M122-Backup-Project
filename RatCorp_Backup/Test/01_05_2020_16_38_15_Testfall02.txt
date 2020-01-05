@@ -1,0 +1,7 @@
+05.01.2020-16:38:15: Running Testfall02
+05.01.2020-16:38:15: Quellverzeichnis: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\OrdnerStrucTest
+05.01.2020-16:38:15: Zielverzeichnis: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup
+05.01.2020-16:38:15: Backupname: 
+05.01.2020-16:38:15: Anzahl kopierter Dateien: 
+05.01.2020-16:38:15: Backedupfiles-List: C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\01_05_2020_16_38_15_Backdupfiles.txt
+05.01.2020-16:38:16: Backup Successful
