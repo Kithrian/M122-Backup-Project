@@ -1,15 +1,22 @@
-﻿## Backup Skript
+﻿## Backupskript
 ## Dieses Skript erstellt ein Backup eines Quellverzeichnis in ein Zielverzeichnis
 ## Als Parameter wird das Quell -und Zielverzeichnis erwartet und 0 oder 1 für den Log in eine Datei
 ## Das Skript gibt am Ende folgende Werte zurück:  - den Namen des erstellten Backups im Zielverzeichnis
 ##                                                 - die Anzahl der erfolgreich kopierten Dateien
 ##                                                 - die Dateinamen der erfolgreich kopierten Dateien
-## Datum: 05.01.2020
+## Datum: 06.01.2020
 ## Autor: Gruppe RegenbogenRatten
+## Version: 1.3
 
+#Paramter die dem Skript übergeben werden
 param(
+  #Gibt den Quellordner an
   [Parameter(Mandatory = $false)] [string]$SourceFolder = "C:\OrdnerStruc",
+
+  #Gibt den Zielordner des Backups an
   [Parameter(Mandatory = $false)] [string]$DestinationFolder = "C:\Backups",
+
+  #Stellt die log Funktion ein oder aus 1 = Ein, 0 = Aus
   [Parameter(Mandatory = $false)] [bool]$logToFile = 1
 )
 
@@ -94,11 +101,11 @@ function log {
   param (
     [Parameter(Mandatory = $true)] $message
   )
-  $date = Get-Date -format dd.MM.yyyy-HH:mm:ss
+  [string]$date = Get-Date -format dd.MM.yyyy-HH:mm:ss
   if (-not (Test-Path -Path $logFile) -and $logToFile -eq 1) {
     New-Item -Path $logFile -ItemType File | Out-Null 
   }
-  $text = "$date" + ":" + " $message"
+  [string]$text = "$date" + ":" + " $message"
   Write-Host $text
   if ($logToFile -eq 1) {
     Add-Content -Path $logFile -Value $text
@@ -106,9 +113,9 @@ function log {
 }
  
 # Set name for backup
-$date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
-$srcName = Get-Item $SourceFolder | Get-ItemPropertyValue -Name Name;
-$backupName = "$srcName-$date"
+[string]$date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
+[string]$srcName = Get-Item $SourceFolder | Get-ItemPropertyValue -Name Name;
+[string]$backupName = "$srcName-$date"
 
 # get path where script is run for creation of log file
 [string]$path = Split-Path $script:MyInvocation.MyCommand.Path
@@ -120,10 +127,10 @@ $backupName = "$srcName-$date"
 log "Running script backup version 1.3"
 
 # test if source directory exists
-$backupSrc = testDirectory $SourceFolder;
+[string]$backupSrc = testDirectory $SourceFolder;
 
 # test if destination directory exists
-$backupDest = testDirectory $DestinationFolder;
+[string]$backupDest = testDirectory $DestinationFolder;
 
 # count files and directories in src
 [int]$fileCountSrc = Get-ChildItem -Path $SourceFolder -Force -Recurse -File | Measure-Object | %{$_.Count};
@@ -134,7 +141,7 @@ $backupDest = testDirectory $DestinationFolder;
 [int]$fileCountDest = 0;
 
 # array for names of copied files
-$fileNames=@()
+[array]$fileNames=@()
 
 # create backup folder in the backup directory, named with actual date and the name of the source folder
 [string]$backup = testDirectory(New-Item -Path $backupDest -ItemType "directory" -Name "$backupName")

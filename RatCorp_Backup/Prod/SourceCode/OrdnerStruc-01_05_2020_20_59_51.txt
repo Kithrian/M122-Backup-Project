@@ -1,0 +1,200 @@
+05.01.2020-20:59:51: Running script backup version 1.3
+05.01.2020-20:59:51: Starting backup of C:\OrdnerStruc to C:\Backups\OrdnerStruc-01_05_2020_20_59_51
+05.01.2020-20:59:51: 12 Directories in C:\OrdnerStruc
+05.01.2020-20:59:51: 180 Files in C:\OrdnerStruc
+05.01.2020-20:59:51: Created directory User Drei
+05.01.2020-20:59:51: Created directory Ordner Drei
+05.01.2020-20:59:51: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:51: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:51: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:51: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Drei
+05.01.2020-20:59:52: Created directory Ordner Eins
+05.01.2020-20:59:52: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:52: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:52: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Eins
+05.01.2020-20:59:53: Created directory Ordner Zwei
+05.01.2020-20:59:53: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Drei\Ordner Zwei
+05.01.2020-20:59:54: Created directory User Eins
+05.01.2020-20:59:54: Created directory Ordner Drei
+05.01.2020-20:59:55: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Drei
+05.01.2020-20:59:55: Created directory Ordner Eins
+05.01.2020-20:59:55: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:55: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:55: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Eins
+05.01.2020-20:59:56: Created directory Ordner Zwei
+05.01.2020-20:59:56: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:56: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:56: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:56: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:56: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:56: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:56: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Eins\Ordner Zwei
+05.01.2020-20:59:57: Created directory User Zwei
+05.01.2020-20:59:57: Created directory Ordner Drei
+05.01.2020-20:59:57: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:57: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:57: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:57: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Drei
+05.01.2020-20:59:58: Created directory Ordner Eins
+05.01.2020-20:59:58: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:58: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:58: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:58: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:58: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Eins
+05.01.2020-20:59:59: Created directory Ordner Zwei
+05.01.2020-20:59:59: Copied 0.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-20:59:59: Copied 1.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-20:59:59: Copied 10.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-20:59:59: Copied 11.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-20:59:59: Copied 12.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-20:59:59: Copied 13.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 14.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 15.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 16.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 17.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 18.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 19.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 2.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 3.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 4.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 5.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 6.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 7.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 8.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: Copied 9.txt to C:\Backups\OrdnerStruc-01_05_2020_20_59_51\User Zwei\Ordner Zwei
+05.01.2020-21:00:00: copy of files finished
+05.01.2020-21:00:00: created 12/12 directories
+05.01.2020-21:00:00: copied 180/180 files
+05.01.2020-21:00:00: Backup SUCCESSFUL, all files have been copied

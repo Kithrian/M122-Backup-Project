@@ -1,4 +1,12 @@
-﻿# log 
+﻿## Testfall02
+## Skript zum durchführen des Testfall02, erstellt Test-Protokoll
+## Ruft das Backupscript auf und wertet das Ergebnis gemäss Testfall02 aus. 
+## Die definierten Variablen $src und $dest werden als Parameter für das Quell -und Zielverzeichnis übergeben.
+## Für das ein-/ausschalten des Logs $logToFile 1 oder 0.
+## Datum: 05.01.2020
+## Autor: Gruppe RegenbogenRatten
+
+# log 
 function log {
     param (
         [Parameter(Mandatory=$true)] $message
@@ -23,11 +31,14 @@ $date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
 # log start of script
 log "Running Testfall02"
 
+# backup source directory
 [string]$src = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\OrdnerStruc" 
+# backup destination directory
 [string]$dest = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\Backup"
 
 [string]$backupFilesList = "C:\Users\vmadmin\Documents\GitHub\M122-Backup-Project\RatCorp_Backup\Test\backupFiles.txt"
 
+# log on=1 off=0
 [bool]$logToFile = 1
 log "Quellverzeichnis: $src"
 log "Zielverzeichnis: $dest"
