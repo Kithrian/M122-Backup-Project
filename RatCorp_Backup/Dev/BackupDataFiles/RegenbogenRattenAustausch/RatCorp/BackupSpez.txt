@@ -1,0 +1,4 @@
+Vorgabe Backup RatCorp
+Quellverzeichnis C:\RatCorp
+Zielverzeichnis:  C:\Backup\[aktuelles Datum]_RatCorp
+Inhalt: 90 Dateien 12 Ordner

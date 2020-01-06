@@ -1,0 +1,2 @@
+Version 1.3
+improved type safety, commented some code

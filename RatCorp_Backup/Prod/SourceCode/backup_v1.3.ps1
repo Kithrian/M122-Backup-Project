@@ -34,8 +34,8 @@ function testDirectory ($Path) {
 # backup function
 function MakeBackup {
   param (
-    [Parameter(Mandatory=$true)] [string]$SourceFolder,
-    [Parameter(Mandatory=$true)] [string]$DestinationFolder
+    [Parameter(Mandatory = $true)] [string]$SourceFolder,
+    [Parameter(Mandatory = $true)] [string]$DestinationFolder
   )
   
   # log start of backup and information about the source and destination
@@ -133,15 +133,15 @@ log "Running script backup version 1.3"
 [string]$backupDest = testDirectory $DestinationFolder;
 
 # count files and directories in src
-[int]$fileCountSrc = Get-ChildItem -Path $SourceFolder -Force -Recurse -File | Measure-Object | %{$_.Count};
-[int]$directoryCountSrc = Get-ChildItem -Path $SourceFolder -Force -Recurse -Directory | Measure-Object | %{$_.Count};
+[int]$fileCountSrc = Get-ChildItem -Path $SourceFolder -Force -Recurse -File | Measure-Object | % { $_.Count };
+[int]$directoryCountSrc = Get-ChildItem -Path $SourceFolder -Force -Recurse -Directory | Measure-Object | % { $_.Count };
 
 # variables to count backup process
 [int]$directoryCountDest = 0;
 [int]$fileCountDest = 0;
 
 # array for names of copied files
-[array]$fileNames=@()
+[array]$fileNames = @()
 
 # create backup folder in the backup directory, named with actual date and the name of the source folder
 [string]$backup = testDirectory(New-Item -Path $backupDest -ItemType "directory" -Name "$backupName")

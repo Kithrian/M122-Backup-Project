@@ -1,15 +1,16 @@
 ﻿# log 
 function log {
     param (
-        [Parameter(Mandatory=$true)] $message
+        [Parameter(Mandatory = $true)] $message
     )
-    $date=Get-Date -format dd.MM.yyyy-HH:mm:ss
+    $date = Get-Date -format dd.MM.yyyy-HH:mm:ss
     if (-not (Test-Path -Path $logFile)) {
-        New-Item -Path $logFile -ItemType File | Out-Null }
-        $text="$date"+":"+" $message"
-      Write-Host $text
-      Add-Content -Path $logFile -Value $text
+        New-Item -Path $logFile -ItemType File | Out-Null 
     }
+    $text = "$date" + ":" + " $message"
+    Write-Host $text
+    Add-Content -Path $logFile -Value $text
+}
 
 $date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
 
@@ -18,7 +19,7 @@ $date = Get-Date -Format "MM_dd_yyyy_HH_mm_ss";
 
 # set logFile path and name
 
-[string]$logFile = "$path\"+"$date"+"_Testfall01_RC"+".txt"
+[string]$logFile = "$path\" + "$date" + "_Testfall01_RC" + ".txt"
 
 # log start of script
 log "Running Testfall01"
@@ -35,7 +36,7 @@ $backupName = $result | select -index 0
 $countCopiedFiles = $result | select -index 1
 $copiedFilesNames = $result | select -index 2
 
-[string]$backdupFilesList = "$path\"+"$date"+"_Backdupfiles_RC"+".txt"
+[string]$backdupFilesList = "$path\" + "$date" + "_Backdupfiles_RC" + ".txt"
 $copiedFilesNames | Out-File -FilePath $backdupFilesList
 
 log "Backupname: $backupName"
@@ -45,9 +46,10 @@ log "Backedupfiles-List: $backdupFilesList"
 $filesSrc = Get-ChildItem -Path $src -Force -Recurse -File
 $filesDest = Get-ChildItem -Path $dest\$backupName -Force -Recurse -File 
 $different = Compare-Object -ReferenceObject $filesSrc -DifferenceObject $filesDest
-if($different){
+if ($different) {
     log "Backup Failed"
-}else {
+}
+else {
     log "Backup Successful"
 }
 
